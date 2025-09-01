@@ -6,7 +6,7 @@
 Simple and complete DOM testing playground that encourage good testing
 practices.
 
-[**online playground**][playground] | [next version][playground-next]
+[**online playground**][playground]
 
 </div>
 
@@ -173,7 +173,6 @@ Contributions of any kind welcome!
 
 [testing-library/dom]: https://testing-library.com/docs/dom-testing-library/example-intro
 [playground]: https://testing-playground.com
-[playground-next]: https://develop.testing-playground.com
 [embed-demo]: https://codepen.io/smeijer/pen/yLYWZmK
 [roadmap.md]: https://github.com/testing-library/testing-playground/blob/develop/ROADMAP.md
 [contributing.md]: https://github.com/testing-library/testing-playground/blob/develop/CONTRIBUTING.md
