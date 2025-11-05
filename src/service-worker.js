@@ -3,7 +3,7 @@ import { toast } from 'react-toastify';
 
 if (process.env.NODE_ENV === 'production') {
   if ('serviceWorker' in navigator) {
-    const sw = '/sw.js';
+    const sw = '/testing-playground/sw.js';
     navigator.serviceWorker.register(sw).then((registration) => {
       registration.onupdatefound = () => {
         const installingWorker = registration.installing;

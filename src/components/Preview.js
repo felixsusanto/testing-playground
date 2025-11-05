@@ -100,7 +100,7 @@ function Preview({ markup, variant, forwardedRef, dispatch }) {
     <div className="relative flex h-full w-full flex-col">
       <iframe
         ref={frameRef}
-        src="/sandbox.html"
+        src="/testing-playground/sandbox.html"
         security="restricted"
         className="flex-auto"
         scrolling="no"
